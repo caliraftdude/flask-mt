@@ -6,4 +6,7 @@ Packages:
 
 Extentions:
     pip install flask-wtf
+    pip install flask-sqlalchemy
+    pip install flask-migrate
+    
     

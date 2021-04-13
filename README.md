@@ -12,8 +12,9 @@ Flask Mega Tutorial
 ##Procedures:
     - flask run
     - flask db init
+    - export FLASK_APP=microblog.py
     - flask db migrate -m "users table"
     - flask db upgrade
     - flask db migreate -m "posts table"
     - flask db upgrade
-    
+    - flask shell (to start up the interpreter with the apps includes/context)

@@ -1,19 +1,19 @@
 # flask-mt
 Flask Mega Tutorial
 
-Packages:
-    flask
+##Packages:
+    - flask
 
-Extentions:
-    pip install flask-wtf
-    pip install flask-sqlalchemy
-    pip install flask-migrate
+##Extentions:
+    - pip install flask-wtf
+    - pip install flask-sqlalchemy
+    - pip install flask-migrate
 
-Procedures:
-    flask run
-    flask db init
-    flask db migrate -m "users table"
-    flask db upgrade
-    
-    
+##Procedures:
+    - flask run
+    - flask db init
+    - flask db migrate -m "users table"
+    - flask db upgrade
+    - flask db migreate -m "posts table"
+    - flask db upgrade
     

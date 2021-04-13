@@ -12,5 +12,6 @@ Extentions:
 Procedures:
     flask run
     flask db init
+    flask db migrate -m "users table"
     
     

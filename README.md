@@ -10,6 +10,8 @@ Flask Mega Tutorial
 - pip install flask-migrate
 - pip install flask-login
 - pip install email-validator
+- pip install flask-mail
+- pip install pyjwt
 
 ##Procedures:
 - flask run

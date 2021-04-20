@@ -12,6 +12,7 @@ Flask Mega Tutorial
 - pip install email-validator
 - pip install flask-mail
 - pip install pyjwt
+- pip install flask-bootstrap
 
 ##Procedures:
 - flask run

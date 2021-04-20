@@ -5,6 +5,7 @@ from flask_migrate import Migrate
 from flask_login import LoginManager
 from flask_mail import Mail
 from flask_bootstrap import Bootstrap
+from flask_moment import Moment
 from config import Config
 import logging
 from logging.handlers import SMTPHandler, RotatingFileHandler
@@ -27,6 +28,10 @@ mail = Mail(app)
 
 # CSS Boostrap support
 bootstrap = Bootstrap(app)
+
+# Client-side ime rendering support
+moment = Moment(app)
+
 
 
 if not app.debug:

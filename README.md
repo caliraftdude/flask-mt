@@ -14,6 +14,7 @@ Flask Mega Tutorial
 - pip install pyjwt
 - pip install flask-bootstrap
 - pip install flask-moment
+- pip install flask-babel
 
 ##Procedures:
 - flask run

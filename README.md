@@ -15,6 +15,8 @@ Flask Mega Tutorial
 - pip install flask-bootstrap
 - pip install flask-moment
 - pip install flask-babel
+- pip install guess_language-spirit
+- pip install requests
 
 ##Procedures:
 - flask run

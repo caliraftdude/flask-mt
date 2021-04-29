@@ -20,3 +20,7 @@ class Config(object):
 
     # Babel language support
     LANGUAGES = ['en', 'es']
+
+    # Translator Services
+    MS_TRANSLATOR_KEY = os.environ.get('MS_TRANSLATOR_KEY')
+    

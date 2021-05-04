@@ -1,6 +1,9 @@
 # flask-mt
 Flask Mega Tutorial
 
+## Source link
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xv-a-better-application-structure
+
 ##Packages:
 - flask
 
